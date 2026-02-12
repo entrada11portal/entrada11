@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ia-brasil",
+    "titulo": "O avanço da Inteligência Artificial no Brasil",
+    "imagem": "https://picsum.photos/800/450?1",
+    "descricaoImagem": "Tecnologia e inteligência artificial em crescimento.",
+    "resumo": "IA transforma empresas e o mercado digital.",
+    "conteudo": "<p>A inteligência artificial cresce rapidamente no Brasil.</p><p>Empresas estão investindo fortemente no setor.</p>",
+    "referencias": "<ul><li>Relatórios de tecnologia 2026</li></ul>",
+    "tags": ["tecnologia", "ia", "futuro"]
+  },
+  {
+    "id": "economia-2026",
+    "titulo": "Economia digital cresce em 2026",
+    "imagem": "https://picsum.photos/800/450?2",
+    "descricaoImagem": "Crescimento da economia digital.",
+    "resumo": "Setor apresenta crescimento recorde.",
+    "conteudo": "<p>O mercado digital registrou crescimento histórico.</p>",
+    "referencias": "<ul><li>Dados econômicos recentes</li></ul>",
+    "tags": ["economia", "digital"]
+  }
+]
